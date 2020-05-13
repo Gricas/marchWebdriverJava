@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/.gitignore
+/compiler.xml
+/../target/test-classes/FirstClass.class
+/../src/test/java/FirstClass.java
+/jarRepositories.xml
+/../target/test-classes/META-INF/marchWebdriverJava.kotlin_module
+/misc.xml
+/../pom.xml
+/vcs.xml
